@@ -1,0 +1,18 @@
+.blog-card {
+    display: absolute;
+    height: 30%;
+    width: 100%;
+    background-color: #444;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid aqua;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+}
