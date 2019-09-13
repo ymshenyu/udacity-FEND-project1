@@ -1,5 +1,4 @@
 .blog-card {
-    display: absolute;
     height: 30%;
     width: 100%;
     background-color: #444;
@@ -15,4 +14,15 @@
     border: 1px solid aqua;
     color: #fff;
     font-family: "Raleway", sans-serif;
+    margin-top: 5%;
+}
+
+@media screen and (max-width: 400px) {
+    .blog-card {
+        font-size: 1px;
+    }
+}
+
+.share {
+    margin: 0 5px;
 }
